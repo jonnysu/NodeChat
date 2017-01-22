@@ -1,5 +1,5 @@
 {
-  "name": "chat",
+  "name": "nsocketchat",
   "version": "1.0.0",
   "description": "a tiny chat system for codeman",
   "main": "index.js",
