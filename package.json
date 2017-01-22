@@ -1,6 +1,6 @@
 {
   "name": "nsocketchat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a tiny chat system for codeman",
   "main": "index.js",
   "dependencies": {},
